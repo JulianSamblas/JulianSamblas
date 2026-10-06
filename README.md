@@ -24,7 +24,9 @@ I work at the intersection of **wireless systems, embedded hardware and data**. 
 
 | Project | Description | Stack |
 |---|---|---|
-| [**TFG – _project title_**](https://github.com/USERNAME/REPO-TFG) | _One line: what it does and the main result_ | _C / MATLAB / …_ |
+| [**TFG – Diseño y fabricación de un sistema de
+telemetría en tiempo real con conectividad
+móvil**](https://github.com/USERNAME/REPO-TFG) | _One line: what it does and the main result_ | _C / MATLAB / …_ |
 | [**Embedded GUI demo**](https://github.com/USERNAME/REPO-EMBEDDED) | High-performance GUI on STM32/ESP32 with LVGL/TouchGFX | C, LVGL |
 | [**MSc AI – coursework**](https://github.com/USERNAME/REPO-MASTER) | Selected ML notebooks and assignments from the VIU master | Python, scikit-learn |
 | _Coming soon: Master's thesis (TFM)_ | _Anomaly detection on industrial / test data_ | Python |
