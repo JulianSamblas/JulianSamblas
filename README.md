@@ -14,7 +14,7 @@ I work at the intersection of **wireless systems, embedded hardware and data**. 
 |---|---|
 | **Telecom & testing** | LTE / 5G NR, protocol analysis (RRC, NAS), Qualcomm QXDM / QCAT, GNSS accuracy testing, drive tests |
 | **Embedded systems** | STM32, ESP32, C/C++, LVGL, TouchGFX, OrCAD (PCB design) |
-| **Data & AI** | Python, pandas, NumPy, scikit-learn, Jupyter, anomaly detection |
+| **Data & AI** | Python, pandas, NumPy, Matplotlib, Jupyter, fuzzy logic, optimization algorithms |
 | **Tooling** | Git, Excel automation, data pipelines for test logs |
 
 ---
@@ -25,7 +25,8 @@ I work at the intersection of **wireless systems, embedded hardware and data**. 
 |---|---|---|
 | [**Real-time telemetry device**](https://github.com/JulianSamblas/realtime-telemetry-esp32s3) | Bachelor's thesis: motorsport telemetry device with GNSS, 9-axis IMU and LTE Cat-M, custom 4-layer PCB and LVGL UI | ESP32-S3, C++, LVGL, EasyEDA |
 | 🚧 **Embedded GUI demo** | High-performance GUI on STM32/ESP32 with LVGL/TouchGFX | C, LVGL |
-| 🚧 **MSc AI – selected projects** | Machine learning projects from my AI master's at VIU | Python, scikit-learn |
+| [**Fuzzy traction control**](https://github.com/JulianSamblas/fuzzy-traction-control) | Predictive traction control for racing motorcycles with Mamdani fuzzy inference, built in Python and FuzzyCLIPS | Python, NumPy, FuzzyCLIPS |
+| [**MSc AI – coursework**](https://github.com/JulianSamblas/msc-ai-coursework) | Selected assignments from my AI master's: telemetry analysis, optimization algorithms (TSP, simulated annealing), Python | Python, pandas, NumPy |
 | 🚧 **Master's thesis (TFM)** | _In progress_ | Python |
 
 ---
