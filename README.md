@@ -4,7 +4,7 @@
 
 I work at the intersection of **wireless systems, embedded hardware and data**. Day to day I validate LTE/5G devices in the field and analyse the full cellular signalling stack. On the side I build tools in Python and study AI/ML applied to engineering data.
 
-📍 Málaga, Spain · Open to relocation and remote opportunities
+📍 Málaga, Spain 
 
 ---
 
