@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi, I'm Julián Samblás 👋
 
 **Industrial Electronics Engineer · Field Test Engineer · MSc Artificial Intelligence (in progress)**
@@ -24,17 +23,14 @@ I work at the intersection of **wireless systems, embedded hardware and data**. 
 
 | Project | Description | Stack |
 |---|---|---|
-| [**TFG – Diseño y fabricación de un sistema de
-telemetría en tiempo real con conectividad
-móvil**](https://github.com/USERNAME/REPO-TFG) | _One line: what it does and the main result_ | _C / MATLAB / …_ |
-| [**Embedded GUI demo**](https://github.com/USERNAME/REPO-EMBEDDED) | High-performance GUI on STM32/ESP32 with LVGL/TouchGFX | C, LVGL |
-| [**MSc AI – coursework**](https://github.com/USERNAME/REPO-MASTER) | Selected ML notebooks and assignments from the VIU master | Python, scikit-learn |
-| _Coming soon: Master's thesis (TFM)_ | _Anomaly detection on industrial / test data_ | Python |
+| [**Real-time telemetry device**](https://github.com/JulianSamblas/realtime-telemetry-esp32s3) | Bachelor's thesis: motorsport telemetry device with GNSS, 9-axis IMU and LTE Cat-M, custom 4-layer PCB and LVGL UI | ESP32-S3, C++, LVGL, EasyEDA |
+| 🚧 **Embedded GUI demo** | High-performance GUI on STM32/ESP32 with LVGL/TouchGFX | C, LVGL |
+| 🚧 **MSc AI – selected projects** | Machine learning projects from my AI master's at VIU | Python, scikit-learn |
+| 🚧 **Master's thesis (TFM)** | _In progress_ | Python |
 
 ---
 
 ### 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU-PERFIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julian-samblas-caballero-b3157a283/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:juliansamblascaballero@gmail.com)
-
